@@ -11,8 +11,11 @@ header .container{
 
 #profile{
   display: flex;
-  
   gap: 32px;
+}
+
+#profile img{
+  object-fit: contain;
 }
 
 #profile div{
